@@ -1,3 +1,5 @@
+
+print('Welcome to the new program of fizzBuzz')
 for number in range(1, 101):
 
     if number % 3 == 0 and number % 5 == 0:
@@ -12,3 +14,7 @@ for number in range(1, 101):
     else:
         print(number)
         
+
+
+
+print('Ending the program')
